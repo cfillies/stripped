@@ -1,3 +1,6 @@
+SEE Debuglog.txt
+
+
 # SemTalk Visio Embed
 
 ## Summary
