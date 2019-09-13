@@ -1,0 +1,41 @@
+Access to fetch at 'https://appsforoffice.microsoft.com/embedded/1.0/visio-web-embedded.js' from origin 'https://semtalk.sharepoint.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. [https://semtalk.sharepoint.com/sites/Berufung/_layouts/15/workbench.aspx]
+Error
+    at t [as constructor] (https://spoprod-a.akamaihd.net/files/sp-client-prod_2019-08-30.017/sp-webpart-workbench-assembly_en-us_5dbf1b1d0223b8c84910cb6dde10efd3.js:4:53376)
+    at new t (https://spoprod-a.akamaihd.net/files/sp-client-prod_2019-08-30.017/sp-webpart-workbench-assembly_en-us_5dbf1b1d0223b8c84910cb6dde10efd3.js:20:49162)
+    at Function.e.buildErrorWithErrorLog (https://spoprod-a.akamaihd.net/files/sp-client-prod_2019-08-30.017/sp-webpart-workbench-assembly_en-us_5dbf1b1d0223b8c84910cb6dde10efd3.js:20:113147)
+    at Function.e.buildUrlStatusHttpsNetworkErrorError (https://spoprod-a.akamaihd.net/files/sp-client-prod_2019-08-30.017/sp-webpart-workbench-assembly_en-us_5dbf1b1d0223b8c84910cb6dde10efd3.js:20:112131)
+    at Function.e._throwUrlStatusError (https://spoprod-a.akamaihd.net/files/sp-client-prod_2019-08-30.017/sp-webpart-workbench-assembly_en-us_5dbf1b1d0223b8c84910cb6dde10efd3.js:20:42269)
+    at https://spoprod-a.akamaihd.net/files/sp-client-prod_2019-08-30.017/sp-webpart-workbench-assembly_en-us_5dbf1b1d0223b8c84910cb6dde10efd3.js:20:41609
+    at async Promise.all (index 0)
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "info". Falling back to "#666666".
+Theming value not provided for "infoBackground". Falling back to "#f4f4f4".
+Theming value not provided for "infoText". Falling back to "#333333".
+Theming value not provided for "info". Falling back to "#666666".
+Theming value not provided for "severeWarningBackground". Falling back to "#fed9cc".
+Theming value not provided for "severeWarningText". Falling back to "#333333".
+Theming value not provided for "severeWarning". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Theming value not provided for "error". Falling back to "#a80000".
+Render Visio Webpart
+SemTalkVisio
+Some icons were re-registered. Applications should only call registerIcons for any given icon once. Redefining what an icon is may have unintended consequences. Duplicates include: 
+GlobalNavButton, ChevronDown, ChevronUp, Edit, Add, Cancel, More, Settings, Mail, Filter (+ 1483 more)
+Session successfully initialized
+
+null: Document load complete:
+null: b {m_contextBase: b, m_objectPath: b, m_context: b, _V: a, m_isNull: false}
+Page load complete:  Übersicht - Berufungsverfahren
+Page load complete:  Übersicht - Berufungsverfahren
+The resource https://c1-officeapps-15.cdn.office.net/v/s/161210434975_App_Scripts/MicrosoftAjax.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource https://c1-visio-15.cdn.office.net/v/s/161210434975_App_Scripts/visioboot.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+Page load complete:  Übersicht - Berufungsverfahren
+
+

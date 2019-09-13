@@ -1,0 +1,46 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.2/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.2",
+  "packageName": "SemTalkServices45",
+  "id": "79648d46-3e2b-41ec-a290-52bf757f806e",
+  "version": "0.5",
+  "developer": {
+    "name": "Semtation GmbH",
+    "websiteUrl": "https://www.semtalk.com",
+    "privacyUrl": "https://www.semtalk.com",
+    "termsOfUseUrl": "https://www.semtalk.com"
+  },
+  "name": {
+    "short": "SemTalkServices45"
+  },
+  "description": {
+    "short": "SemTalkServices45 description",
+    "full": "SemTalkServices45 description"
+  },
+  "icons": {
+    "outline": "tab20x20.png",
+    "color": "tab96x96.png"
+  },
+  "accentColor": "#004578",
+  "configurableTabs": [{
+    "configurationUrl": "https://{teamSiteDomain}{teamSitePath}/_layouts/15/TeamsLogon.aspx?SPFX=true&dest={teamSitePath}/_layouts/15/teamshostedapp.aspx%3FopenPropertyPane=true%26teams%26componentId=79648d46-3e2b-41ec-a290-52bf757f806e",
+    "canUpdateConfiguration": true,
+    "scopes": [
+      "team"
+    ]
+  }],
+  "validDomains": [
+    "*.login.microsoftonline.com",
+    "*.sharepoint.com",
+    "*.semtalk.sharepoint.com",
+    "*.sharepoint-df.com",
+    "spoppe-a.akamaihd.net",
+    "spoprod-a.akamaihd.net",
+    "resourceseng.blob.core.windows.net",
+    "msft.spoppe.com"
+  ],
+  "webApplicationInfo": {
+    "resource": "https://{teamSiteDomain}",
+    "id": "00000003-0000-0ff1-ce00-000000000000"
+  }
+}

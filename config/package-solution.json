@@ -1,0 +1,51 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "semtalk-visio-client-side-solution",
+    "id": "0ad401f1-b158-4626-8e71-cf27b1f4848d",
+    "version": "1.0.0.9",
+    "features": [
+      {
+        "title": "semtalk-visio-client-side-solution-feature",
+        "description": "semtalk-assets-client-side-solutionfeature",
+        "id": "0ad401f1-b158-4626-8e71-cf27b1f4848e",
+        "version": "1.0.0.9"
+      }
+    ],
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": false,
+    "webApiPermissionRequests": [
+      {
+        "resource": "Microsoft Graph",
+        "scope": "Sites.Read.All"
+      },
+      {
+        "resource": "Microsoft Graph",
+        "scope": "People.Read.All"
+      },
+      {
+        "resource": "Microsoft Graph",
+        "scope": "Contacts.Read"
+      },
+      {
+        "resource": "Microsoft Graph",
+        "scope": "User.Read.All"
+      },
+      {
+        "resource": "Microsoft Graph",
+        "scope": "Mail.Read"
+      },
+      {
+        "resource": "Microsoft Graph",
+        "scope": "Calendars.ReadWrite"
+      },
+      {
+        "resource": "Microsoft Graph",
+        "scope": "Group.ReadWrite.All"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/semtalk-visio.sppkg"
+  }
+}
